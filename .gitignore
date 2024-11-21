@@ -1,0 +1,25 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__
+
+# Virtual environment folder
+venv/
+env/
+
+# IDE and editor files
+.vscode/
+
+# Flask-specific files
+instance/
+.webassets-cache/
+
+# Logs
+*.log
+
+# mypy
+.mypy_cache/
+
+# pylint
+pylint-report.txt
+pylint-global-rcfile
