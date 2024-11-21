@@ -1,0 +1,1 @@
+  -L"C:/Users/jacob/C_Libraries/curl-8.11.0_1-win32-mingw/lib"  -LC:/Users/jacob/C_Libraries/jansson/build/lib  -lcurl -lws2_32 -lwldap32 C:/Users/jacob/C_Libraries/jansson/build/lib/libjansson.a -lws2_32 -lwldap32 C:/Users/jacob/C_Libraries/jansson/build/lib/libjansson.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

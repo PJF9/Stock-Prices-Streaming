@@ -1,0 +1,3 @@
+C:/Users/jacob/Documents/Programming/Projects/Stock-Price-Streaming/Stock-Prices-Streaming/build/CMakeFiles/main.dir
+C:/Users/jacob/Documents/Programming/Projects/Stock-Price-Streaming/Stock-Prices-Streaming/build/CMakeFiles/edit_cache.dir
+C:/Users/jacob/Documents/Programming/Projects/Stock-Price-Streaming/Stock-Prices-Streaming/build/CMakeFiles/rebuild_cache.dir
